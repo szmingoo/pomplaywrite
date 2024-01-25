@@ -1,0 +1,82 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "cases",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "用例标题：登录失败",
+        "uid" : "cefedbf2c9e84e6f",
+        "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204967852,
+          "stop" : 1700204981279,
+          "duration" : 13427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：登录成功",
+        "uid" : "581cf2677fade18d",
+        "parentUid" : "ad8748b508876214210dcbe11e9b93c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204981284,
+          "stop" : 1700204990092,
+          "duration" : 8808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad8748b508876214210dcbe11e9b93c8"
+    }, {
+      "name" : "test_newTask",
+      "children" : [ {
+        "name" : "用例标题：任务名称输入校验",
+        "uid" : "68a627ac65e5c68a",
+        "parentUid" : "ca507ee85d605979df59c49713ca8ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974006,
+          "stop" : 1700204974073,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：上传卷宗",
+        "uid" : "b57d4d6853ed6b43",
+        "parentUid" : "ca507ee85d605979df59c49713ca8ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974078,
+          "stop" : 1700204974168,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：创建任务",
+        "uid" : "b315cf1f56ad3599",
+        "parentUid" : "ca507ee85d605979df59c49713ca8ea6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974173,
+          "stop" : 1700204985598,
+          "duration" : 11425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca507ee85d605979df59c49713ca8ea6"
+    } ],
+    "uid" : "d4f25acf57632f6fe40a83cfe70f00b2"
+  } ]
+}

@@ -1,0 +1,176 @@
+{
+  "uid" : "b315cf1f56ad3599",
+  "name" : "用例标题：创建任务",
+  "fullName" : "cases.test_newTask.TestNewTaskPage#test_create_task",
+  "historyId" : "5ef42ee279965682f60d8277e7b6d474",
+  "time" : {
+    "start" : 1700204974173,
+    "stop" : 1700204985598,
+    "duration" : 11425
+  },
+  "description" : "操作步骤：点击创建任务按钮",
+  "descriptionHtml" : "<p>操作步骤：点击创建任务按钮</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1700204963875,
+      "stop" : 1700204963876,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "delete_output_dir",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_xunit_setup_class_fixture_TestNewTaskPage",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204974004,
+      "duration" : 10128
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestNewTaskPage::0",
+    "time" : {
+      "start" : 1700204985599,
+      "stop" : 1700204985599,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "新建任务页面"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_newTask"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestNewTaskPage"
+  }, {
+    "name" : "host",
+    "value" : "shenzhiming"
+  }, {
+    "name" : "thread",
+    "value" : "14484-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_newTask"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ef4ea2844485f7c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700199455461,
+        "stop" : 1700199464975,
+        "duration" : 9514
+      }
+    }, {
+      "uid" : "145194baf8edd856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700199411355,
+        "stop" : 1700199422135,
+        "duration" : 10780
+      }
+    }, {
+      "uid" : "6bc8a6fe23fdd405",
+      "status" : "broken",
+      "statusDetails" : "playwright._impl._api_types.Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://101.xx.xx.xx/dist/index.html#/login\n=========================== logs ===========================\nnavigating to \"http://101.xx.xx.xx/dist/index.html#/login\", waiting until \"load\"\n============================================================",
+      "time" : {
+        "start" : 1700199367562,
+        "stop" : 1700199367562,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b315cf1f56ad3599.json",
+  "parameterValues" : [ ]
+}

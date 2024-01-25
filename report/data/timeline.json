@@ -1,0 +1,301 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "shenzhiming",
+    "children" : [ {
+      "name" : "9424-MainThread",
+      "children" : [ {
+        "name" : "用例标题：上传卷宗",
+        "uid" : "dc28d6695227fcb0",
+        "parentUid" : "2d80759a5ed006296e0bc40e5db6aa95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199455396,
+          "stop" : 1700199455457,
+          "duration" : 61
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：创建任务",
+        "uid" : "ef4ea2844485f7c8",
+        "parentUid" : "2d80759a5ed006296e0bc40e5db6aa95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199455461,
+          "stop" : 1700199464975,
+          "duration" : 9514
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：任务名称输入校验",
+        "uid" : "6310a0ae926b8564",
+        "parentUid" : "2d80759a5ed006296e0bc40e5db6aa95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199455327,
+          "stop" : 1700199455391,
+          "duration" : 64
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d80759a5ed006296e0bc40e5db6aa95"
+    }, {
+      "name" : "14484-MainThread",
+      "children" : [ {
+        "name" : "用例标题：创建任务",
+        "uid" : "b315cf1f56ad3599",
+        "parentUid" : "e6f28661e61cbe223f832ac7f42031a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974173,
+          "stop" : 1700204985598,
+          "duration" : 11425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：任务名称输入校验",
+        "uid" : "68a627ac65e5c68a",
+        "parentUid" : "e6f28661e61cbe223f832ac7f42031a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974006,
+          "stop" : 1700204974073,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：上传卷宗",
+        "uid" : "b57d4d6853ed6b43",
+        "parentUid" : "e6f28661e61cbe223f832ac7f42031a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204974078,
+          "stop" : 1700204974168,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6f28661e61cbe223f832ac7f42031a1"
+    }, {
+      "name" : "14844-MainThread",
+      "children" : [ {
+        "name" : "用例标题：任务名称输入校验",
+        "uid" : "6d5d4d8b628a4df6",
+        "parentUid" : "74bcc0ea9d8137e8dd1ab3e4422546f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199411238,
+          "stop" : 1700199411274,
+          "duration" : 36
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：创建任务",
+        "uid" : "145194baf8edd856",
+        "parentUid" : "74bcc0ea9d8137e8dd1ab3e4422546f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199411355,
+          "stop" : 1700199422135,
+          "duration" : 10780
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：上传卷宗",
+        "uid" : "eda6443811a1fdd7",
+        "parentUid" : "74bcc0ea9d8137e8dd1ab3e4422546f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199411279,
+          "stop" : 1700199411352,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74bcc0ea9d8137e8dd1ab3e4422546f3"
+    }, {
+      "name" : "5024-MainThread",
+      "children" : [ {
+        "name" : "用例标题：登录成功",
+        "uid" : "f34b3e6bbd4e06d5",
+        "parentUid" : "b9323c0cd3bc7243d4d62fa73de68a18",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700199367274,
+          "stop" : 1700199371820,
+          "duration" : 4546
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：登录失败",
+        "uid" : "80cf4ce86dea9a67",
+        "parentUid" : "b9323c0cd3bc7243d4d62fa73de68a18",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700199359049,
+          "stop" : 1700199366949,
+          "duration" : 7900
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9323c0cd3bc7243d4d62fa73de68a18"
+    }, {
+      "name" : "10652-MainThread",
+      "children" : [ {
+        "name" : "用例标题：登录失败",
+        "uid" : "cefedbf2c9e84e6f",
+        "parentUid" : "a37b5b81b3cdcd6ddb06d16394d6203a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204967852,
+          "stop" : 1700204981279,
+          "duration" : 13427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：登录成功",
+        "uid" : "581cf2677fade18d",
+        "parentUid" : "a37b5b81b3cdcd6ddb06d16394d6203a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700204981284,
+          "stop" : 1700204990092,
+          "duration" : 8808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a37b5b81b3cdcd6ddb06d16394d6203a"
+    }, {
+      "name" : "15648-MainThread",
+      "children" : [ {
+        "name" : "用例标题：登录失败",
+        "uid" : "8f04f7d4688d691b",
+        "parentUid" : "856eccb459426622954a281330d88604",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199408922,
+          "stop" : 1700199420314,
+          "duration" : 11392
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：登录成功",
+        "uid" : "bfd5f843d1283a0b",
+        "parentUid" : "856eccb459426622954a281330d88604",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199420321,
+          "stop" : 1700199429045,
+          "duration" : 8724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "856eccb459426622954a281330d88604"
+    }, {
+      "name" : "2652-MainThread",
+      "children" : [ {
+        "name" : "用例标题：创建任务",
+        "uid" : "6bc8a6fe23fdd405",
+        "parentUid" : "b020ca992b481e9413e4e056a1a0fa04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700199367562,
+          "stop" : 1700199367562,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：上传卷宗",
+        "uid" : "a6b18bd760e3bb63",
+        "parentUid" : "b020ca992b481e9413e4e056a1a0fa04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700199367259,
+          "stop" : 1700199367259,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：任务名称输入校验",
+        "uid" : "ed06aab2a7c0af76",
+        "parentUid" : "b020ca992b481e9413e4e056a1a0fa04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700199356191,
+          "stop" : 1700199356191,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b020ca992b481e9413e4e056a1a0fa04"
+    }, {
+      "name" : "15524-MainThread",
+      "children" : [ {
+        "name" : "用例标题：登录成功",
+        "uid" : "3bfcb7112d6ebf24",
+        "parentUid" : "1d8f98bfdbdd95f0bf5f516e76029f4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199462034,
+          "stop" : 1700199470812,
+          "duration" : 8778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：登录失败",
+        "uid" : "a41e1c46970278c",
+        "parentUid" : "1d8f98bfdbdd95f0bf5f516e76029f4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1700199451828,
+          "stop" : 1700199462029,
+          "duration" : 10201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d8f98bfdbdd95f0bf5f516e76029f4d"
+    } ],
+    "uid" : "7bcec2ed882e58e1e4a3e175865492e3"
+  } ]
+}

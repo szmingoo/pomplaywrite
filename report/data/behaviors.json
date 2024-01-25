@@ -1,0 +1,78 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录页面",
+    "children" : [ {
+      "name" : "用例标题：登录失败",
+      "uid" : "cefedbf2c9e84e6f",
+      "parentUid" : "61bcda7215eb52afed47c0f6d8cd25a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700204967852,
+        "stop" : 1700204981279,
+        "duration" : 13427
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "用例标题：登录成功",
+      "uid" : "581cf2677fade18d",
+      "parentUid" : "61bcda7215eb52afed47c0f6d8cd25a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700204981284,
+        "stop" : 1700204990092,
+        "duration" : 8808
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "61bcda7215eb52afed47c0f6d8cd25a5"
+  }, {
+    "name" : "新建任务页面",
+    "children" : [ {
+      "name" : "用例标题：任务名称输入校验",
+      "uid" : "68a627ac65e5c68a",
+      "parentUid" : "a79f2dbc0ee1a9fa12da9ca6ae4ab0ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700204974006,
+        "stop" : 1700204974073,
+        "duration" : 67
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "用例标题：上传卷宗",
+      "uid" : "b57d4d6853ed6b43",
+      "parentUid" : "a79f2dbc0ee1a9fa12da9ca6ae4ab0ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700204974078,
+        "stop" : 1700204974168,
+        "duration" : 90
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "用例标题：创建任务",
+      "uid" : "b315cf1f56ad3599",
+      "parentUid" : "a79f2dbc0ee1a9fa12da9ca6ae4ab0ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700204974173,
+        "stop" : 1700204985598,
+        "duration" : 11425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a79f2dbc0ee1a9fa12da9ca6ae4ab0ce"
+  } ]
+}

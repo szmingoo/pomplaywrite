@@ -1,0 +1,179 @@
+{
+  "uid" : "cefedbf2c9e84e6f",
+  "name" : "用例标题：登录失败",
+  "fullName" : "cases.test_login.TestLogin#test_input_error_password",
+  "historyId" : "227ebb4d4065cc81c03dd6123484a89b",
+  "time" : {
+    "start" : 1700204967852,
+    "stop" : 1700204981279,
+    "duration" : 13427
+  },
+  "description" : "操作步骤：输入错误的密码",
+  "descriptionHtml" : "<p>操作步骤：输入错误的密码</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_xunit_setup_class_fixture_TestLogin",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204967850,
+      "duration" : 3974
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "delete_output_dir",
+    "time" : {
+      "start" : 1700204963876,
+      "stop" : 1700204963876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestLogin::0",
+    "time" : {
+      "start" : 1700204990093,
+      "stop" : 1700204990093,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录页面"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "shenzhiming"
+  }, {
+    "name" : "thread",
+    "value" : "10652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a41e1c46970278c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700199451828,
+        "stop" : 1700199462029,
+        "duration" : 10201
+      }
+    }, {
+      "uid" : "8f04f7d4688d691b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1700199408922,
+        "stop" : 1700199420314,
+        "duration" : 11392
+      }
+    }, {
+      "uid" : "80cf4ce86dea9a67",
+      "status" : "broken",
+      "statusDetails" : "playwright._impl._api_types.Error: net::ERR_HTTP_RESPONSE_CODE_FAILURE at http://101.xx.xx.xx/dist/index.html#/login\n=========================== logs ===========================\nnavigating to \"http://101.xx.xx.xx/dist/index.html#/login\", waiting until \"load\"\n============================================================",
+      "time" : {
+        "start" : 1700199359049,
+        "stop" : 1700199366949,
+        "duration" : 7900
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "cefedbf2c9e84e6f.json",
+  "parameterValues" : [ ]
+}

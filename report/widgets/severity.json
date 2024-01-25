@@ -1,0 +1,51 @@
+[ {
+  "uid" : "581cf2677fade18d",
+  "name" : "用例标题：登录成功",
+  "time" : {
+    "start" : 1700204981284,
+    "stop" : 1700204990092,
+    "duration" : 8808
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cefedbf2c9e84e6f",
+  "name" : "用例标题：登录失败",
+  "time" : {
+    "start" : 1700204967852,
+    "stop" : 1700204981279,
+    "duration" : 13427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b57d4d6853ed6b43",
+  "name" : "用例标题：上传卷宗",
+  "time" : {
+    "start" : 1700204974078,
+    "stop" : 1700204974168,
+    "duration" : 90
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b315cf1f56ad3599",
+  "name" : "用例标题：创建任务",
+  "time" : {
+    "start" : 1700204974173,
+    "stop" : 1700204985598,
+    "duration" : 11425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68a627ac65e5c68a",
+  "name" : "用例标题：任务名称输入校验",
+  "time" : {
+    "start" : 1700204974006,
+    "stop" : 1700204974073,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
